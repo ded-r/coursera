@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+
+.navbar-brand{
+  font-size: 25px;
+  color: #ffffff;
+}
+
+#nav-list a{
+  font-size: 20px;
+  color: #000000;
+  border: 1px solid #d1d1d1;
+}
+
+.heading{
+  font-size: 25px;
+  margin: 15px;
+}
+
+.chicken{
+  padding: 15px;
+  border: 2px solid #000000;
+  font-size: 20px;
+  background-color: #fff3a4;
+}
